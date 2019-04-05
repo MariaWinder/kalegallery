@@ -4,8 +4,8 @@
 #shows .shows-lk,
 #news .news-lk
     {
-    color: black;
-    font-weight:bold; 
+    color: #C2C2C2;
+    font-weight:lighter;
 }
 
 html{
@@ -34,7 +34,7 @@ ul{
     list-style-type: none;
 }
 li{
-    text-align: center;        
+    text-align: center;
 }
 a{
     color: black;
@@ -42,12 +42,12 @@ a{
 }
 .link{
     font-weight:bold;
-    font-size: 14pt; 
+    font-size: 14pt;
 }
 .link2{
     font-weight:bold;
     font-size: 14pt;
-    color: #DB2B39;  
+    color: #DB2B39;
 }
 h1{
     font-size: 18pt;
@@ -58,7 +58,7 @@ h2{
     text-align: right;
 }
 h3{
-    text-align: right;  
+    text-align: right;
 }
 p{
     font-size: 12pt;
@@ -82,7 +82,7 @@ figcaption{
     margin: auto;
 }
  @media screen and (min-width:700px){
-     
+
      body{
          margin: auto;
      }
@@ -97,7 +97,7 @@ figcaption{
          margin-bottom: 20px;
      }
      nav{
-         display: inline-block;    
+         display: inline-block;
      }
      ul{
          padding-left: 0;
@@ -112,16 +112,16 @@ figcaption{
      .pics{
          text-align: center;
      }
-     
+
      .col{
                 margin: 5px;
                 display:inline-block;
                 vertical-align: top;
                 text-align: left;
-                width: 45%; 
+                width: 45%;
                 padding:4px;
      }
-     
+
      .choice{
          text-align: center;
      }
